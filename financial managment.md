@@ -25,17 +25,18 @@
 
 ## Overview
 
-![Mintable](./img/mintable.png)
 
-Mintable simplifies managing your finances, for free, without ads, and without tracking your information. Here's how it works:
 
-1. You connect your accounts and a spreadsheet to Mintable.
-1. Mintable integrates with your financial institutions to automatically populate transactions into the leftmost columns in your spreadsheet.
+This system simplifies managing your finances, for free, without ads, and without tracking your information. Here's how it works:
+
+1. You connect your accounts and a spreadsheet to the system.
+ integrates with your financial institutions to automatically populate transactions into the leftmost columns in your spreadsheet.
 1. You can add whatever formulas, charts, or calculations you want to the right of your transactions (just like a normal spreadsheet). We also have templates to get you started.
 
 ---
 
 ## Installation
+i would like to name my project as mintable
 
 ### Creating a Fresh Installation
 
@@ -58,7 +59,7 @@ Mintable simplifies managing your finances, for free, without ads, and without t
     mintable fetch
     ```
 
-![Mintable CLI](./img/cli.png)
+
 
 ### Migrating from `v1.x.x`
 
@@ -333,4 +334,4 @@ npm install -g mintable
 
 ## Contributing
 
-Before posting please check if your issue has already been reported. We'll gladly accept PRs, feature requests, or bugs via [Issues](https://github.com/kevinschaich/mintable/issues).
+Before posting please check if your issue has already been reported. We'll gladly accept PRs, feature requests, or bugs via [Issues](https://github.com).
